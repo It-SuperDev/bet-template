@@ -1,0 +1,9 @@
+@import "./_font.css";
+@import "./_global.css";
+
+
+.card {
+    /* opacity: 0.8; */
+    background-size: 5px 5px;
+    background-image: repeating-linear-gradient(to right, #444df700, #706f6f25 1px, #e5e5f700 1px, #e5e5f700);
+}
